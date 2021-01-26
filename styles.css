@@ -1,0 +1,77 @@
+/* Color Palatte 
+darkred #81208a 
+purple #9A10DE
+dark purple #8B47FF
+blue #3555E8
+light blue #3BC6FF
+
+*/
+
+/* global styles
+-----------------------------------------------*/
+
+body{
+    color: #343434;
+}
+
+img {
+    width: 300px;
+}
+
+a {
+    color:darkkhaki;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/* profile styles
+-----------------------------------------------*/
+header {
+    background-color:#81208a ;
+    color:whitesmoke;
+}
+
+/* projects styles
+-----------------------------------------------*/
+.projects {
+    background-color: #9A10DE;
+    color:whitesmoke;
+}
+
+/*.projects {
+    color:darkmagenta;
+    background: darkturquoise;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+} 
+
+.projects a:hover{
+    background: aliceblue;
+    */
+
+/* work experience styles
+-----------------------------------------------*/
+.work-experience {
+    background-color: #8B47FF;
+    color:cornsilk;
+}
+
+/* education styles
+-----------------------------------------------*/
+.education {
+    background-color: #3555E8;
+    color: whitesmoke;
+}
+
+/* contact info styles
+-----------------------------------------------*/
+footer {
+    background-color: #298bb3;
+    color: whitesmoke;
+    }
+   
+footer a {
+    color:white;
+}    
