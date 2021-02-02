@@ -53,13 +53,21 @@ h1 {
 }
 
 h2 {
-    margin: 0;   font-size: 45px;
+    margin: 0;   
+    font-size: 50px;
 }
 
 h1, h2 {
     font-family: 'La Belle Aurore', cursive;
     margin: 0;
 }
+
+h3 {
+  font-size: 25px;
+  margin-bottom: 0;
+
+}
+
 .wrap {
     width: 700px;
     margin: 0 auto;
@@ -116,4 +124,5 @@ footer {
    
 footer a {
     color:black;
+   
 }    
